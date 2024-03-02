@@ -33,7 +33,7 @@ def set_background(main_bg):
          unsafe_allow_html=True
      )
 
-set_background('C:/Users/HP/Desktop/Multiple disease project/city.jpg') 
+set_background('city.jpg') 
 
 
 # page title
