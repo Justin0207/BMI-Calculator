@@ -10,6 +10,10 @@ import streamlit as st
 
 import base64
 
+st.set_page_config(
+        page_title="BMI Calculator" 
+)
+
 def set_background(main_bg):
     '''
     A function to unpack an image from root folder and set as bg.
