@@ -44,7 +44,7 @@ set_background('city.jpg')
 st.title('Body Mass Index Calculator')
 
 
-unit = st.selectbox('Measurement system :', ['Metric System', 'Imperial System'],
+unit = st.selectbox('Measurement system :', ['Metric System (cm/kg)', 'Imperial System(inches/pounds)'],
                     help = 'Select the measurement system you are using to give your height and weight')
 
 
