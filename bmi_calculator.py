@@ -96,4 +96,17 @@ if st.button('Calculate BMI : '):
         st.error('Weight Category: :red[Obese Category]')
 
 
+st.markdown("Made with ❤️ by [Anyanwu Justice](https://github.com/Justin0207)")
+        st.write(
+            """
+            <style>
+                footer {
+                    visibility: hidden;
+                }
+            </style>
+            """,
+            unsafe_allow_html=True,
+        )
+
+
 
