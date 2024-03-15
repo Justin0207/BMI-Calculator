@@ -5,4 +5,7 @@ secondaryBackgroundColor="#1a3169"
 textColor="#fffefe"
 font="serif"
 
+[client]
+showErrorDetails = false
+
 
